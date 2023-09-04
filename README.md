@@ -7,6 +7,10 @@
 4. Libreoffice
 5. Composer
 
+## Required Folders
+1.output_images
+2.uploads
+
 ## composer install
 To install the required packages via Composer, follow these steps:
 
